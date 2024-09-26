@@ -4,7 +4,7 @@ int endX = 0;
 int endY = 500-((int)Math.random()*500);
 
 void setup(){
-size(1000,1000);
+size(1000,800);
 strokeWeight(5);
 }
 void draw(){
