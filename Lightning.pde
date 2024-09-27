@@ -6,6 +6,7 @@ int n = 0;
 void setup(){
 size(1000,800);
 strokeWeight(7);
+background((int)(Math.random()*155),(int)(Math.random()*155),(int)(Math.random()*155));
 }
 void draw(){
 stroke((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255)); 
